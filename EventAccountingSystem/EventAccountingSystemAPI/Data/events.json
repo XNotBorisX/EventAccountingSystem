@@ -1,0 +1,32 @@
+[
+  {
+    "Id": "9e888504-ee15-4fd1-84cf-aabf6d131e4e",
+    "Title": "\u042D\u042D\u042D",
+    "Description": "\u0410\u0410\u0410\u0410",
+    "Location": "\u0416\u0416\u0416\u0416",
+    "EventDate": "2026-05-28T01:03:46.557",
+    "CreatedAt": "2026-05-22T01:04:58.351676+03:00",
+    "Status": "Canceled",
+    "Type": "Seminar"
+  },
+  {
+    "Id": "d6531251-2436-4c00-a978-08a74e06b036",
+    "Title": "\u0447\u043F\u0447",
+    "Description": "\u043F\u044B\u043F\u044B",
+    "Location": "\u0447\u043F\u044B",
+    "EventDate": "2026-05-21T01:04:09.955",
+    "CreatedAt": "2026-05-22T01:04:41.0328135+03:00",
+    "Status": "Completed",
+    "Type": "Conference"
+  },
+  {
+    "Id": "afc8e8a4-a840-42cd-9ba6-6addb88564df",
+    "Title": "\u0422\u0435\u0441\u04421",
+    "Description": "\u0422\u0435\u0445\u043D\u0438\u043A\u0430",
+    "Location": "\u041A\u0430\u043B\u044B\u043C\u0430",
+    "EventDate": "2026-05-30T01:03:46.557",
+    "CreatedAt": "2026-05-22T01:20:23.519049+03:00",
+    "Status": "Planned",
+    "Type": "Seminar"
+  }
+]

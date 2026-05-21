@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Новый профиль",
+    "Projects": [
+      {
+        "Path": "EventAccountingSystemAPI\\EventAccountingSystemAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "EventAccountingSystemUI\\EventAccountingSystemUI.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
